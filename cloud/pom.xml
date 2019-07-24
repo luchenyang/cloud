@@ -13,6 +13,9 @@
         <version>2.1.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <modules>
+        <module>eurka</module>
+    </modules>
 
     <properties>
         <java.version>1.8</java.version>
